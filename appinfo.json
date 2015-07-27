@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ckhawks@gmail.com",
+    "longName": "ProbablySimulator",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "ProbablySimulator",
+    "uuid": "2ee402a1-8d9c-4c2d-9edc-de4fca3e8ced",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
